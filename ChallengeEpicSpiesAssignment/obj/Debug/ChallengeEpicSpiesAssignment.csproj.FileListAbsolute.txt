@@ -1,0 +1,9 @@
+C:\Users\Young\Documents\Projects\C#\Lesson\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\bin\ChallengeEpicSpiesAssignment.dll.config
+C:\Users\Young\Documents\Projects\C#\Lesson\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\bin\ChallengeEpicSpiesAssignment.dll
+C:\Users\Young\Documents\Projects\C#\Lesson\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\bin\ChallengeEpicSpiesAssignment.pdb
+C:\Users\Young\Documents\Projects\C#\Lesson\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Young\Documents\Projects\C#\Lesson\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Young\Documents\Projects\C#\Lesson\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\obj\Debug\ChallengeEpicSpiesAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Young\Documents\Projects\C#\Lesson\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\obj\Debug\ChallengeEpicSpiesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Young\Documents\Projects\C#\Lesson\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\obj\Debug\ChallengeEpicSpiesAssignment.dll
+C:\Users\Young\Documents\Projects\C#\Lesson\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\obj\Debug\ChallengeEpicSpiesAssignment.pdb
